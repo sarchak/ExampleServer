@@ -1,0 +1,3 @@
+#! /bin/sh
+echo "Post inst"
+ls /usr/local/bin/hello
